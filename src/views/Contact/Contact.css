@@ -1,0 +1,25 @@
+.contact-container{
+    background-color: aliceblue;
+    width: 45%;
+  margin:0 auto;
+  padding: 20px;
+}
+.contact-image{
+    height: 300px;
+    object-fit: cover;
+    display: block;
+    margin: 0 auto
+;
+}
+.contact-title{
+    text-align: center;
+}
+
+.contact-paragraph{
+    font-size: 20px;
+    font-weight: 400;
+    text-align: justify;
+    width: 70%;
+    margin: 0 auto;
+    
+}

@@ -1,0 +1,21 @@
+.heading{
+    text-align: center;
+
+
+
+
+}
+.restaurant-paragraph{
+    width: 75%;
+    background-color: aliceblue;
+    display: block;
+    margin: auto;
+    padding: 10px;
+    font-size: 20px;
+   
+}
+.restaurant-image{
+    height: 70vh;
+    display: block;
+    margin: 0 auto;
+}

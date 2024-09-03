@@ -1,0 +1,23 @@
+
+.main-container{
+    background-color: #f5f8fa !important;
+    width: 45%;
+    margin: 0 auto; 
+    padding: 10px
+;
+}
+.about-paragraph{
+    font-size: 20px;
+}
+.about-heading{
+    font-size: 30px;
+    text-align: center;
+   
+}
+
+
+.shop-image{
+    height: 300px !important;
+    display: block;
+    margin: 0 auto;
+}
